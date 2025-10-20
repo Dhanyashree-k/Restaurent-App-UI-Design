@@ -3,7 +3,7 @@ Designed a vibrant restaurant app UI in Figma celebrating India’s regional cui
 ## 💻 Technology Stack / Tools  
 - **Design Tool:** Figma  
 - **Design System:** Material Design Principles  
-- **Features Used:** Auto Layout, Components, Color Styles, Prototyping  
+- **Features Used:** Masking, Color Styles, Prototyping  
 - **Color Scheme:** Orange, Yellow, Deep Gray (inspired by Indian culture)  
 - **Typography:** Poppins / Inter  
 
